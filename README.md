@@ -8,6 +8,9 @@ AngularJS, .NET / C#, SCSS, MSSQL… and whatever the project needs.
 UI design isn’t my strongest skill,  
 but I *do* know when something looks wrong (most of the time).
 
+I wouldn’t say I’ve mastered most of these tools,  
+but I’m familiar with them and know how to get things done.
+
 Some projects are private due to confidentiality.  
 Most public ones are… works in progress. 🚧
 
