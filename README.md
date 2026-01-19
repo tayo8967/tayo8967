@@ -1,5 +1,37 @@
 ## Hi there 👋
 
+I'm Levin 🥔 — a software engineer based in the Philippines.
+
+I do full-stack things:  
+AngularJS, .NET / C#, SCSS, MSSQL… and whatever the project needs.
+
+UI design isn’t my strongest skill,  
+but I *do* know when something looks wrong (most of the time).
+
+Some projects are private due to confidentiality.  
+Most public ones are… works in progress. 🚧
+
+---
+
+## 🛠 Tools & Tech
+- AngularJS, .NET, C#, MSSQL, FirebirdDB, SCSS  
+- PHP, Laravel, TypeScript, Spatie
+- MERN stack (some experience, can work with it)
+- Git, GitLab, GitHub
+- Node.js
+- Jira / Confluence  
+- Linux (Ubuntu) + Nginx for hosting
+
+---
+
+## 👤 About Me
+- Enjoys playing games (any genre, if it’s interesting)
+- Drinks coffee ☕, just not obsessed with it
+- Into anime (same rule: if it’s interesting)
+- Simple
+- Has a dog 🐶 (important)
+
+
 <!--
 **tayo8967/tayo8967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
