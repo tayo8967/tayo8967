@@ -29,7 +29,6 @@ Most public ones are… works in progress. 🚧
 
 ## 👤 About Me
 - Enjoys playing games (any genre, if it’s interesting)
-- Drinks coffee ☕, just not obsessed with it
 - Into anime (same rule: if it’s interesting)
 - Simple
 - Has a dog 🐶 (important)
